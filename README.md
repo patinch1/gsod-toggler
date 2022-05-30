@@ -3,4 +3,4 @@
 GSOD Toggler
 (GSOD = Green screen of death)
 
-What does this program do? well.. enable the green background of blue screen of death :)
+What does this program do? well.. enable or disable the green background of blue screen of death :)
